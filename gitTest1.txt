@@ -1,2 +1,3 @@
-This is the firt git Test
+This is the first git Test
 I will start tracking from here
+Adding a new line

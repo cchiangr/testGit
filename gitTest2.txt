@@ -1,4 +1,3 @@
 This is the second test.
 #some commment#
-if test successful 
-then move on!
+if test successful
